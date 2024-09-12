@@ -1,0 +1,18 @@
+Query(q): dog
+Size of Answer Set(A): 4
+Answer[1]: 1
+Answer[2]: 2
+Answer[3]: 3
+Answer[4]: 5
+Size of Relevant Set(Rq): 4
+Relevant[1]: 2
+Relevant[2]: 3
+Relevant[3]: 4
+Relevant[4]: 6
+
+
+Metrics
+Precision: 0.5
+Recall: 0.5
+FMeasure: 0.5
+EMeasure: 0.24999975000025002
